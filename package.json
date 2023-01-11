@@ -14,7 +14,7 @@
     "jquery": "^3.4.0",
     "mdbreact": "^4.14.0",
     "moment": "^2.29.4",
-    "npm": "^6.9.0",
+    "npm": "^9.2.0",
     "popper.js": "^1.14.7",
     "react": "^16.7.0",
     "react-back-to-top-button": "0.0.14",
